@@ -1,12 +1,10 @@
 # MyPullRequests
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/my_pull_requests`. To experiment with that code, run `bin/console` for an interactive prompt.
+MyPullRequests is a ruby gem to get your own pull requests for the current repository.
 
-TODO: Delete this and the text above, and describe your gem
+NOTE: This gem is not released yet. Will be released soon!
 
 ## Installation
-
-Add this line to your application's Gemfile:
 
 ```ruby
 gem 'my_pull_requests'
@@ -22,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```sh
+$ myprs
+# => and you'll get a list of your pull requests for the current repository
+```
 
 ## Development
 
